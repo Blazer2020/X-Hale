@@ -57,16 +57,6 @@ Here are a few previews of the X-Hale app in action:
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository  
-2. Open the project in Android Studio  
-3. Build and install the app on your Android device  
-4. Connect to the X-Hale spirometer via Bluetooth  
-5. Start capturing and visualizing your lung data in real-time
-
----
-
 ## 📜 Disclaimer
 
 This project is currently under academic development. The hardware design is undergoing patent approval and is not shared publicly. All software in this repo is open for educational and research purposes.
