@@ -42,7 +42,7 @@ Here are a few previews of the X-Hale app in action:
 ![Results Page](images/history_page.jpg)
 
 ### 🔗 Bluetooth Pairing
-![Bluetooth Pairing](images/bluetooth_page.jpg)
+![Bluetooth Pairing](images/bluetooth_screen.jpg)
 
 ---
 ## 🔧 Tools & Technologies
