@@ -33,16 +33,16 @@
 Here are a few previews of the X-Hale app in action:
 
 ### 🔐 Login Page
-![Login Page](images/login_page.jpeg)
+![Login Page](images/login_page.jpg)
 
 ### 🏠 Home Screen
-![Home Screen](images/home_page.jpeg)
+![Home Screen](images/home_page.jpg)
 
 ### 📊 Lung Function Results History
-![Results Page](images/history_page.jpeg)
+![Results Page](images/history_page.jpg)
 
 ### 🔗 Bluetooth Pairing
-![Bluetooth Pairing](images/bluetooth_page.jpeg)
+![Bluetooth Pairing](images/bluetooth_page.jpg)
 
 ---
 ## 🔧 Tools & Technologies
