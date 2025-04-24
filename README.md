@@ -28,6 +28,23 @@
 
 ---
 
+## 📱 App Screenshots
+
+Here are a few previews of the X-Hale app in action:
+
+### 🔐 Login Page
+![Login Page](images/login_page.jpeg)
+
+### 🏠 Home Screen
+![Home Screen](images/home_page.jpeg)
+
+### 📊 Lung Function Results History
+![Results Page](images/history_page.jpeg)
+
+### 🔗 Bluetooth Pairing
+![Bluetooth Pairing](images/bluetooth_page.jpeg)
+
+---
 ## 🔧 Tools & Technologies
 
 | Tool/Platform | Purpose |
