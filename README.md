@@ -1,5 +1,4 @@
-<<<<<<< main
-# 🌬️ Smart Portable Digital Spirometer
+# 🌬️ H-Hale: Smart Portable Digital Spirometer
 
 > Empowering respiratory health monitoring — anytime, anywhere.
 
