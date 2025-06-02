@@ -98,7 +98,6 @@ Our device offers:
 - Integration with wearable health monitoring systems  
 
 ---
-=======
->>>>>>> main
+
 
 
